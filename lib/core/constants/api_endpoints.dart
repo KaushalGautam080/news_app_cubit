@@ -1,0 +1,1 @@
+const String newsAPIBaseURl = "https://newsapi.org/v2/everything?q=tesla&from=2023-11-07&sortBy=publishedAt&apiKey=963248fe7e3947989f7a78657ca35d89";
